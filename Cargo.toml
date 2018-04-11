@@ -1,0 +1,6 @@
+[package]
+name = "rust-logo"
+version = "0.1.0"
+authors = ["cg-cnu <sreenivas9alapati@gmail.com>"]
+
+[dependencies]
