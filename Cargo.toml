@@ -2,5 +2,7 @@
 name = "rust-logo"
 version = "0.1.0"
 authors = ["cg-cnu <sreenivas9alapati@gmail.com>"]
+description = "rust logos"
+license = "MIT"
 
 [dependencies]
